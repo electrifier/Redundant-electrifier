@@ -12,7 +12,9 @@ https://github.com/electrifier/Classic-electrifier
 ----
 (c) 2026 tajbender, electrifier and its contributors.
 
-## OBSOLETE: integrated Desktop Enhancement suite ![electrifier Logo](./assets/Electrifier%20Logo%20-%20Unflashed.png)
+-------
+
+# OBSOLETE: integrated Desktop Enhancement suite
 
 Classic electrifier was an open-source project which extended Windows File Explorer :registered: by
 - [ ] Apache License, Version 2.0 (the "License")
@@ -25,6 +27,10 @@ Classic electrifier was in early development stages - most featureswerw work in 
 
 👫 If you want to get involved in its development feel free to contribute
 
+# Screendump
+
+![electrifier Logo](./assets/Electrifier%20Logo%20-%20Unflashed.png)
+
 # Requirements 
 Originally, the project was started back in 2004, using .NET-framework 1.0 and Windows XP. However, due to a system crash, I lost all my data, including the source-code, which was stored on a software RAID-5.
 
@@ -36,7 +42,7 @@ Released | Version | Details
 04/05/19 | 0.1.1 | An internal alpha test is currently in progress
 
 
-## Docs and Scrrens
+## Docs and Screens
 
 ![electrifier Main Form](./docs/Pictures/MainForm.png)
 
