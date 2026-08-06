@@ -1,5 +1,18 @@
 # classic redundant electrifier
-## integrated Desktop Enhancement suite ![electrifier Logo](./assets/Electrifier%20Logo%20-%20Unflashed.png)
+## Legacy Reference — Classic-electrifier
+
+This project is part of a broader personal exploration of UI, tooling, and interactive systems.
+For historical context, see **Classic-electrifier**, an earlier WinForms-based shell experiment
+featuring DockPanelSuite and Vanara. While unrelated in technology, both projects share the same
+spirit of rapid prototyping, modular design, and creative experimentation.
+
+Repository:
+https://github.com/electrifier/Classic-electrifier
+
+----
+(c) 2026 tajbender, electrifier and its contributors.
+
+## OBSOLETE: integrated Desktop Enhancement suite ![electrifier Logo](./assets/Electrifier%20Logo%20-%20Unflashed.png)
 
 Classic electrifier was an open-source project which extended Windows File Explorer :registered: by
 - [ ] Apache License, Version 2.0 (the "License")
