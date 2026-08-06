@@ -1,4 +1,4 @@
-# electrifier
+# classic redundant electrifier
 ## integrated Desktop Enhancement suite ![electrifier Logo](./assets/Electrifier%20Logo%20-%20Unflashed.png)
 
 Classic electrifier was an open-source project which extended Windows File Explorer :registered: by
