@@ -1,7 +1,9 @@
-﻿using electrifier.Core.Components;
-using electrifier.Core.Components.DockContents;
+﻿using electrifier.Core.Components.DockContents;
+using electrifier.Core.Components;
 using electrifier.Core.WindowsShell;
 using RibbonLib.Controls.Events;
+using RibbonLib.Controls;
+using RibbonLib;
 using System.Windows.Forms;
 using Vanara.PInvoke;
 
