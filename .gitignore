@@ -4,3 +4,6 @@
 /src/*/obj/
 /src/packages/*/lib
 /src/.vs/electrifier
+/src/electrifier.Core/.vs/electrifier.Core.csproj.dtbcache.json
+/src/electrifier/.vs/electrifier.csproj.dtbcache.json
+/src/EntityLighter/.vs/EntityLighter.csproj.dtbcache.json
